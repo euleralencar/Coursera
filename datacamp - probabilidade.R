@@ -79,3 +79,5 @@ prop.table(tabela)
 chisq.test(tabela)
 
 # Não rejeitamos, já que o p-valor foi acima de 0.05.
+
+### Novos Procedimentos
